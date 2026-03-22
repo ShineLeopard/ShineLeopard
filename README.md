@@ -15,7 +15,7 @@ I enjoy creating efficient solutions, learning modern development practices, and
        
         * # 📊 GitHub Activity
        
-        * ![GitHub Streak](https://streak-stats.demolab.com?user=sfgrtyh546y&theme=tokyonight&hide_border=true)
+        * ![GitHub Streak](https://streak-stats.demolab.com?user=ShineLeopard&theme=tokyonight&hide_border=true)
        
         * # 🛠 Tech Stack
        
@@ -52,7 +52,7 @@ I enjoy creating efficient solutions, learning modern development practices, and
        
         * # 📈 Contribution Graph
        
-        * ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sfgrtyh546y&theme=tokyo-night)
+        * ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShineLeopard&theme=tokyo-night)
        
         * # 🌱 Currently Learning
        
